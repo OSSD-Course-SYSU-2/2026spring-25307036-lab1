@@ -38,3 +38,4 @@ ssh -T git@github.com                                  #测试ssh是否连接上
 
 ssh-keygen -p -f ~/.ssh/id_ed25519               #重新设置密码
 ssh-add ~/.ssh/id_ed25519                            #重新加载key 把私钥重新加入agent
+           }
